@@ -56,4 +56,5 @@ I place a high value on protecting people and adhering to the law. It is highly 
 ## Projects [<-- UPDATE THIS TOOO]
 - Detection Lab
 - SOC Automation Project
+- <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering for Image Generation</a>
 - Controls and Compliance Security Audit Checklist - Google Certificate https://docs.google.com/document/d/1ZAUdiW2ebr69ODxdXgA8-LJv1srg7T7qJ6KewSjzdLc/edit?usp=sharing
