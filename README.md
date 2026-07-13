@@ -1,46 +1,19 @@
 # Hi there, I'm Sarah!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com](https://www.linkedin.com/in/sarahbfonseca7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a high-school graduate with my Associates in Arts degree and a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I'm currently studying at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity!
-
-## Objective
-[Provide Objective - Remove this afterwards]]
+I'm a high-school graduate with my Associates in Arts degree and a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I'm currently studying at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity.
 
 I place a high value on protecting people and adhering to the law. It is highly important to me to ensure the security of client assets and uphold the CIA triad.
+</div>
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards. UPDATE THIS.]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects & Labs         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards UPDATE THIS TOO.]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+| Linux Querying                                | <a href="https://docs.google.com/document/d/1KVMQEqnMzYBXkJO4hvQQU52sl8mYW1e2wFbdvAPgapc/edit?usp=sharing">File Permissions in Linux Lab</a>|
+| SQL Querying                                  | <a href="https://docs.google.com/document/d/11CR9wKaJ9vP1VVJ7Om65KuRPx9-azg8zmtvJBx_9DrY/edit?usp=sharing">Filters with SQL Lab</a>|
+| Incident Response Analysis and Report         | <a href="https://docs.google.com/document/d/1zOT3LjwZiTX7gDV8vHoZ6tlgAP80B6fmTi_JdEsvA8Q/edit?usp=sharing">Incident Report Analysis Lab</a>|
+| Vulnerability Assessment and Report           | <a href="https://docs.google.com/document/d/1Q4qEl50q0VQ6aRRvBdblW8UdEMNwSEjLuh2TB7Fb8_o/edit?usp=sharing">Vulnerability Assessment Report</a>|
 </div>
 
 ## Certifications
