@@ -1,5 +1,5 @@
 # Hi there, I'm Sarah!
-<a href="https://linkedin.com](https://www.linkedin.com/in/sarahbfonseca7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sarahbfonseca7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a high-school graduate with my Associates in Arts degree and a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I'm currently studying at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity.
 
