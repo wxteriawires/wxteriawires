@@ -1,7 +1,8 @@
 # Hi there, I'm Sarah!
 <a href="https://www.linkedin.com/in/sarahbfonseca7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a high-school graduate with my Associates in Arts degree and a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I'm currently studying at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity.
+I'm a college student studying at Florida International University EDIT THIS LATER
+high-school graduate with my Associates in Arts degree and a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I'm currently studying at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity.
 
 I place a high value on protecting people and adhering to the law. It is highly important to me to ensure the security of client assets and uphold the CIA triad.
 </div>
@@ -18,20 +19,22 @@ I place a high value on protecting people and adhering to the law. It is highly 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards UPDATE THIS.]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 
-[![BUTTON_TEXT](https://img.shields.io/badge/BUTTON_TEXT-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](YOUR_URL)
-[![Foundations of Cybersecurity](https://img.shields.io/badge/Foundations-of-Cybersecurity-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)]([https://coursera.org/share/edcea44ded346fc7a890b96da2612796])
+<!-- Template for Coursera Buttons: [![BUTTON_TEXT](https://img.shields.io/badge/BUTTON_TEXT-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](YOUR_URL) -->
+[![Foundations of Cybersecurity](https://img.shields.io/badge/Foundations_of_Cybersecurity-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/edcea44ded346fc7a890b96da2612796)
+[![Play It Safe: Manage Security Risks](https://img.shields.io/badge/Play_It_Safe:_Manage_Security_Risks-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/d4329e0289aaa01bfcdb36c3588af959)
+[![Connect and Protect: Networks and Network Security](https://img.shields.io/badge/Connect_and_Protect:_Networks_and_Network_Security-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/fadc33e4a0e258636048d8b4117261f8)
+[![Tools of the Trade: Linux and SQL](https://img.shields.io/badge/Tools_of_the_Trade:_Linux_and_SQL-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/c3976305a78ca27d4e7d485a76970205)
+[![Assets, Threats, and Vulnerabilities](https://img.shields.io/badge/Assets,_Threats,_and_Vulnerabilities-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/517701acbd88c0507c9353020d08e587)
+[![Sound the Alarm: Detection and Response](https://img.shields.io/badge/Sound_the_Alarm:_Detection_and_Response-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/d85f577748ef282c5eb4a0a9fc1ed8df)
+[![Automate Cybersecurity Tasks with Python](https://img.shields.io/badge/Automate_Cybersecurity_Tasks_with_Python-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/767ccea1116429c84815a5ec19aa020f)
+[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/edee7627afc7a92ac1c755cfedd0e9c3)
+[![Programming for Everybody (Getting Started with Python)](https://img.shields.io/badge/Programming_for_Everybody_(Getting_Started_with_Python)-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/21cf21758b300dc158650055c159c3bc)
 </div>
 
 ## Projects [<-- UPDATE THIS TOOO]
 - Detection Lab
 - SOC Automation Project
-- <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering for Image Generation</a>
+- <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering</a>
 - []
