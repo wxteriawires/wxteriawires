@@ -17,6 +17,11 @@ Outside of my coursework, I have a profound interest in technology. I am a persi
 | Controls and Compliance Auditing              | <a href="https://docs.google.com/document/d/1ZAUdiW2ebr69ODxdXgA8-LJv1srg7T7qJ6KewSjzdLc/edit?usp=sharing">Controls and Compliance Security Audit Checklist Lab</a> |
 </div>
 
+## Projects
+- <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering</a>
+- <a href="https://github.com/wxteriawires#skills">Skill Labs (above)</a>
+</div>
+
 ## Certifications
 <div>
 
@@ -33,8 +38,4 @@ Outside of my coursework, I have a profound interest in technology. I am a persi
 [![Programming for Everybody (Getting Started with Python)](https://img.shields.io/badge/Programming_for_Everybody_(Getting_Started_with_Python)-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/21cf21758b300dc158650055c159c3bc)
 </div>
 
-## Projects [<-- UPDATE THIS TOOO]
-- Detection Lab
-- SOC Automation Project
-- <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering</a>
-- <a href="EDIT THIS LATER">Skill Labs</a>
+UPDATE AFTER THIS
