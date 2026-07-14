@@ -3,9 +3,9 @@
 # Hi there, I'm Sarah!
 <a href="https://www.linkedin.com/in/sarahbfonseca7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a college student at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity. I graduated high-school with an Assosiates in Arts degree through dual enrollment, managing high-school courses and rigorous college classes at once.
+I'm a college student at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity with an accelerated pathway to a Masters in Cybersecurity. I graduated high-school with an Assosiates in Arts degree.
 
-Outside of my coursework, I have a profound interest in technology. I am a persistent and strong-willed individual; solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I place a high value on protecting people and adhering to the law. It is highly important to me to work toward security and uphold the CIA triad.
+Outside of my coursework, I have a profound interest in technology. I am a persistent and strong-willed individual; solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I place a high value on protecting people and adhering to the rules and regulations in place. It is highly important to me to work toward security and uphold the CIA triad.
 </div>
 
 ## Projects/Labs and Skills
