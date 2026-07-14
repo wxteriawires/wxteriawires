@@ -1,9 +1,11 @@
+<img width="1200" height="30" alt="tumblr_29c2300112f418abf48aed3eecfbca67_29012cea_1280" src="https://github.com/user-attachments/assets/e0ecea2f-a5da-4f6d-b322-785e7eb146a2" />
+
 # Hi there, I'm Sarah!
 <a href="https://www.linkedin.com/in/sarahbfonseca7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a college student studying at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity. I graduated high-school with an Assosiates in Arts degree from Doral College through dual enrollment, managing high-school courses and rigorous college classes at once.
+I'm a college student at Florida International University (FIU) for a Bachelor's Degree in Cybersecurity. I graduated high-school with an Assosiates in Arts degree through dual enrollment, managing high-school courses and rigorous college classes at once.
 
-Outside of my coursework, I have a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I place a high value on protecting people and adhering to the law. It is highly important to me to ensure the security of client assets and uphold the CIA triad.
+Outside of my coursework, I have a profound interest in technology. I am a persistent and strong-willed individual; solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I place a high value on protecting people and adhering to the law. It is highly important to me to work toward security and uphold the CIA triad.
 </div>
 
 ## Projects/Labs and Skills
@@ -34,4 +36,8 @@ Outside of my coursework, I have a profound interest in technology. I am a persi
 [![Programming for Everybody (Getting Started with Python)](https://img.shields.io/badge/Programming_for_Everybody_(Getting_Started_with_Python)-114dd9?&style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/21cf21758b300dc158650055c159c3bc)
 </div>
 
-UPDATE AFTER THIS
+## Ways to contact me!
+- Email: SarahBFonseca7@gmail.com
+- Phone Number: (305)-798-3366
+- <a href="https://www.linkedin.com/in/sarahbfonseca7/">LinkedIn</a> (also available at the top of this README)
+<img width="1200" height="30" alt="tumblr_29c2300112f418abf48aed3eecfbca67_29012cea_1280" src="https://github.com/user-attachments/assets/e0ecea2f-a5da-4f6d-b322-785e7eb146a2" />
