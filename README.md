@@ -6,7 +6,7 @@ I'm a college student studying at Florida International University (FIU) for a B
 Outside of my coursework, I have a profound interest in technology. I am a persistent and strong-willed individual; Solving complex problems and analyzing difficult situations is always a welcome and fulfilling challenge for me. I place a high value on protecting people and adhering to the law. It is highly important to me to ensure the security of client assets and uphold the CIA triad.
 </div>
 
-## Skills
+## Projects/Labs and Skills
 
 | Skill                                         | Associated Projects & Labs         |
 |-----------------------------------------------|----------------------------|
@@ -15,11 +15,7 @@ Outside of my coursework, I have a profound interest in technology. I am a persi
 | Incident Response Analysis and Report         | <a href="https://docs.google.com/document/d/1zOT3LjwZiTX7gDV8vHoZ6tlgAP80B6fmTi_JdEsvA8Q/edit?usp=sharing">Incident Report Analysis Lab</a>|
 | Vulnerability Assessment and Report           | <a href="https://docs.google.com/document/d/1Q4qEl50q0VQ6aRRvBdblW8UdEMNwSEjLuh2TB7Fb8_o/edit?usp=sharing">Vulnerability Assessment Report</a>|
 | Controls and Compliance Auditing              | <a href="https://docs.google.com/document/d/1ZAUdiW2ebr69ODxdXgA8-LJv1srg7T7qJ6KewSjzdLc/edit?usp=sharing">Controls and Compliance Security Audit Checklist Lab</a> |
-</div>
-
-## Projects
-- <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering</a>
-- <a href="https://github.com/wxteriawires#skills">Skill Labs (above)</a>
+| Prompt Engineering                            | <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering with ChatGPT</a>
 </div>
 
 ## Certifications
