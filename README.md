@@ -8,14 +8,14 @@ Outside of my coursework, I have a profound interest in technology. I am a persi
 
 ## Projects/Labs and Skills
 
-| Skill                                         | Associated Projects & Labs         |
-|-----------------------------------------------|----------------------------|
-| Linux Querying                                | <a href="https://docs.google.com/document/d/1KVMQEqnMzYBXkJO4hvQQU52sl8mYW1e2wFbdvAPgapc/edit?usp=sharing">File Permissions in Linux Lab</a>|
-| SQL Querying                                  | <a href="https://docs.google.com/document/d/11CR9wKaJ9vP1VVJ7Om65KuRPx9-azg8zmtvJBx_9DrY/edit?usp=sharing">Filters with SQL Lab</a>|
-| Incident Response Analysis and Report         | <a href="https://docs.google.com/document/d/1zOT3LjwZiTX7gDV8vHoZ6tlgAP80B6fmTi_JdEsvA8Q/edit?usp=sharing">Incident Report Analysis Lab</a>|
-| Vulnerability Assessment and Report           | <a href="https://docs.google.com/document/d/1Q4qEl50q0VQ6aRRvBdblW8UdEMNwSEjLuh2TB7Fb8_o/edit?usp=sharing">Vulnerability Assessment Report</a>|
-| Controls and Compliance Auditing              | <a href="https://docs.google.com/document/d/1ZAUdiW2ebr69ODxdXgA8-LJv1srg7T7qJ6KewSjzdLc/edit?usp=sharing">Controls and Compliance Security Audit Checklist Lab</a> |
-| Prompt Engineering                            | <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering with ChatGPT</a>
+| Projects & Labs                               | Skill(s)                           |
+|-----------------------------------------------|------------------------------------|
+| <a href="https://drive.google.com/drive/folders/1ByH2faIzXhElCxIhk-WvEdl7HdhnQYEl?usp=drive_link">Prompt Engineering with ChatGPT</a> | Prompt Engineering |
+| <a href="https://docs.google.com/document/d/1KVMQEqnMzYBXkJO4hvQQU52sl8mYW1e2wFbdvAPgapc/edit?usp=sharing">File Permissions in Linux Lab</a> | Linux Querying |
+| <a href="https://docs.google.com/document/d/11CR9wKaJ9vP1VVJ7Om65KuRPx9-azg8zmtvJBx_9DrY/edit?usp=sharing">Filters with SQL Lab</a> | SQL Querying |
+| <a href="https://docs.google.com/document/d/1ZAUdiW2ebr69ODxdXgA8-LJv1srg7T7qJ6KewSjzdLc/edit?usp=sharing">Controls and Compliance Security Audit Checklist Lab</a> | Controls and Compliance Auditing |
+| <a href="https://docs.google.com/document/d/1zOT3LjwZiTX7gDV8vHoZ6tlgAP80B6fmTi_JdEsvA8Q/edit?usp=sharing">Incident Report Analysis Lab</a> | Incident Response Analysis and Report |
+| <a href="https://docs.google.com/document/d/1Q4qEl50q0VQ6aRRvBdblW8UdEMNwSEjLuh2TB7Fb8_o/edit?usp=sharing">Vulnerability Assessment Report</a> | Vulnerability Assessment and Report |
 </div>
 
 ## Certifications
